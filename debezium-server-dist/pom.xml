@@ -49,23 +49,7 @@
             <dependencies>
                 <dependency>
                     <groupId>io.debezium</groupId>
-                    <artifactId>debezium-connector-mysql</artifactId>
-                </dependency>
-                <dependency>
-                    <groupId>io.debezium</groupId>
                     <artifactId>debezium-connector-postgres</artifactId>
-                </dependency>
-                <dependency>
-                    <groupId>io.debezium</groupId>
-                    <artifactId>debezium-connector-mongodb</artifactId>
-                </dependency>
-                <dependency>
-                    <groupId>io.debezium</groupId>
-                    <artifactId>debezium-connector-sqlserver</artifactId>
-                </dependency>
-                <dependency>
-                    <groupId>io.debezium</groupId>
-                    <artifactId>debezium-connector-oracle</artifactId>
                 </dependency>
                 <dependency>
                     <groupId>io.debezium</groupId>
@@ -82,51 +66,7 @@
                 </dependency>
                 <dependency>
                     <groupId>io.debezium</groupId>
-                    <artifactId>debezium-server-kinesis</artifactId>
-                </dependency>
-                <dependency>
-                    <groupId>io.debezium</groupId>
-                    <artifactId>debezium-server-http</artifactId>
-                </dependency>
-                <dependency>
-                    <groupId>io.debezium</groupId>
-                    <artifactId>debezium-server-pubsub</artifactId>
-                </dependency>
-                <dependency>
-                    <groupId>io.debezium</groupId>
-                    <artifactId>debezium-server-pulsar</artifactId>
-                </dependency>
-                <dependency>
-                    <groupId>io.debezium</groupId>
                     <artifactId>debezium-server-eventhubs</artifactId>
-                </dependency>
-                <dependency>
-                    <groupId>io.debezium</groupId>
-                    <artifactId>debezium-server-redis</artifactId>
-                </dependency>
-                <dependency>
-                    <groupId>io.debezium</groupId>
-                    <artifactId>debezium-server-kafka</artifactId>
-                </dependency>
-                <dependency>
-                    <groupId>io.debezium</groupId>
-                    <artifactId>debezium-server-pravega</artifactId>
-                </dependency>
-                <dependency>
-                    <groupId>io.debezium</groupId>
-                    <artifactId>debezium-server-nats-streaming</artifactId>
-                </dependency>
-                <dependency>
-                    <groupId>io.debezium</groupId>
-                    <artifactId>debezium-server-nats-jetstream</artifactId>
-                </dependency>
-                <dependency>
-                    <groupId>io.debezium</groupId>
-                    <artifactId>debezium-server-infinispan</artifactId>
-                </dependency>
-                <dependency>
-                    <groupId>io.debezium</groupId>
-                    <artifactId>debezium-server-rocketmq</artifactId>
                 </dependency>
                 <dependency>
                     <groupId>io.quarkus</groupId>
